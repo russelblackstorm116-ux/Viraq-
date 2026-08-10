@@ -1,6 +1,8 @@
 {
-  "name": "VIRAQ",
-  "description": "Agence créative spécialisée en création de logos, visuels publicitaires, lyrics et montage vidéo.",
+  "name": "VIRAQ - Agence Créative & Design Studio",
+  "description": "Agence créative haut de gamme spécialisée en design de logos, identité visuelle, bannières publicitaires, contenu pour artistes & lyrics, et montage vidéo professionnel.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
